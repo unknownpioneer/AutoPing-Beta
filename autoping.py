@@ -36,8 +36,6 @@ email:scratchwiki@outlook.com
 """
 """
 测试数据
-报错：youtube.cn
-ping通：bilibili.com
-ping不通：facebook.com
+
 
 """
